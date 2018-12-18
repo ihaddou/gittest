@@ -21,6 +21,7 @@ int main(int argc, char** argv) {
     cout <<"bonjour git";
     cout <<"test n2 git";
      cout <<"test n3 git";
+     cout<<"ajout au programme de ismael"<<endl;
     return 0;
 }
 
