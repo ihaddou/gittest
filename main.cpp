@@ -19,6 +19,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout <<"bonjour git";
+    cout <<"test n2 git";
     return 0;
 }
 
